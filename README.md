@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1mQB2Gu8Pnfwv9ql_scJgBCLqon_lrN23/view?usp=sharing" width="100%" alt="Arbind Yadav Banner"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGhjp4JkTSDrg/profile-displaybackgroundimage-shrink_350_1400/B56ZzLahTLHAAc-/0/1772939255324?e=1785369600&v=beta&t=MQuNtGNeZ035kiC6vYakKU-VzzBBu6z6XMGwjQMwqbc" width="100%" alt="Arbind Yadav Banner"/>
 
 # 👋 Hi, I'm Arbind Yadav
 
