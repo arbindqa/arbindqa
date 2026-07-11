@@ -1,138 +1,78 @@
 <div align="center">
 
-#  Hi, I'm Arbind Yadav
+<img src="https://drive.google.com/file/d/1mQB2Gu8Pnfwv9ql_scJgBCLqon_lrN23/view?usp=sharing" width="100%" alt="Arbind Yadav Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Playwright+%7C+Python+%7C+Selenium;Cypress+%7C+API+Testing;CI%2FCD+%7C+AI+Testing;Building+Reliable+Automation+Frameworks"/>
+# 👋 Hi, I'm Arbind Yadav
 
-<img src="https://komarev.com/ghpvc/?username=arbindqa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### 🚀 QA Automation Engineer | Python | Playwright | Selenium | Cypress
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Automation+Engineer;Playwright+%7C+Python;Selenium+%7C+Cypress;API+Testing+%7C+CI%2FCD;AI+Testing"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=arbindqa&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/followers/arbindqa?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/arbindqa?style=for-the-badge"/>
 
+</p>
+
 </div>
 
 ---
 
-#  About Me
+## 💻 Tech Stack
 
-💼 **QA Automation Engineer**
+<p align="center">
 
-📍 Bengaluru, India
-
-🧪 4.5+ Years of Experience
-
-🏢 Automation Engineer @ ThoughtCoders LLP
-
-💡 Passionate about building scalable automation frameworks and delivering high-quality software.
-
----
-
-# 👨‍💻 Professional Summary
-
-- ✅ 4.5+ years of Manual & Automation Testing experience
-- ✅ Expert in Playwright (Python), Selenium & Cypress
-- ✅ API Testing using Postman & Newman
-- ✅ AI Platform Testing
-- ✅ LLM Validation
-- ✅ Speech Analytics Testing
-- ✅ Regression Testing
-- ✅ CI/CD Automation
-- ✅ Agile Scrum
-
----
-
-# 🛠 Tech Stack
-
-### Automation
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,git,github,jenkins,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,selenium,git,github,jenkins,docker,postman,vscode,mysql"/>
 
 </p>
 
-### Testing
+---
 
-- 🎭 Playwright
-- 🧪 Selenium
-- 🌲 Cypress
-- 📮 Postman
-- ⚙️ Pytest
-- 🧩 BDD/Cucumber
+## ⚡ Expertise
+
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+✔ Playwright (Python)
+
+✔ Selenium WebDriver
+
+✔ Cypress
+
+✔ API Testing
+
+✔ Pytest
+
+✔ POM Framework
+
+✔ Jenkins
+
+✔ GitHub Actions
+
+✔ AI Testing
+
+✔ SQL
+
+✔ Agile Scrum
 
 ---
 
-# ⚡ Core Skills
+## 🚀 Current Project
 
-- Automation Framework Design
-- Page Object Model (POM)
-- Hybrid Framework
-- Data Driven Framework
+🎙 **Voicegain AI Platform**
+
+- Speech Analytics
+- LLM Validation
 - API Automation
-- REST API Validation
-- JSON Schema Validation
-- Smoke Testing
 - Regression Testing
-- Functional Testing
-- Release Testing
-- AI Testing
-- LLM Validation
+- CI/CD Pipeline
 
 ---
 
-#  Featured Projects
-
-## 🎙 Voicegain – AI Speech Analytics Platform
-
-AI-powered speech recognition platform with
-
-- Agent Sentiment Analysis
-- QA Score
-- CRM Integration
-- LLM Validation
-- KPI Dashboard
-- Automation using Playwright + Python
-
----
-
-## 🏨 Media Communication
-
-Hospitality Management Platform
-
-Automation Included
-
-- UI Testing
-- API Testing
-- Database Testing
-- Selenium
-- Jenkins
-- Katalon Studio
-
----
-
-# 💼 Experience
-
-## ThoughtCoders LLP
-
-**Automation Engineer**
-
-📅 February 2021 — June 2026
-
-Working on
-
-- Playwright Framework
-- Selenium Framework
-- API Testing
-- AI Testing
-- Regression Suite
-- Jenkins Pipeline
-- GitHub Actions
-- Jira Xray
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -150,7 +90,7 @@ Working on
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 Achievements
 
 <p align="center">
 
@@ -160,7 +100,7 @@ Working on
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution
 
 <p align="center">
 
@@ -170,55 +110,26 @@ Working on
 
 ---
 
-# 🎯 Current Focus
+## 🌐 Connect
 
-- AI Testing
-- Playwright Framework
-- API Automation
-- GitHub Actions
-- Performance Testing
-- LLM Validation
+<p align="center">
 
----
+<a href="mailto:arbind.job123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-# 📚 Currently Learning
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-- Docker
-- Kubernetes
-- AWS Testing
-- AI-assisted QA
-- Prompt Engineering
+<a href="https://github.com/arbindqa">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
----
-
-# 🎓 Education
-
-🎓 B.Tech
-
-IES Institute of Technology & Management
-
-RGPV University
-
-2016 – 2020
-
----
-
-# 📫 Contact
-
-📍 Bengaluru, India
-
-📧 arbind.job123@gmail.com
-
-📱 +91-9454191270
-
----
+</p>
 
 <div align="center">
 
-### 💙 "Quality is never an accident. It is always the result of intelligent effort."
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+Visiting!;Happy+Coding!;Happy+Testing!;Keep+Automating!"/>
-
-⭐ Don't forget to follow if you like my work!
+### ⭐ *Automate • Validate • Deliver*
 
 </div>
